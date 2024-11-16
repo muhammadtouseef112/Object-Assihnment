@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    color: chocolate;
+    transition: 2s;
+}
+h3{
+    font-size: 22px;
+    font-weight: 600;
+    font-style: oblique;
+    color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition: 3s;
+}
